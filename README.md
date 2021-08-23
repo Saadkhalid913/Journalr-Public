@@ -28,6 +28,8 @@
 
 `set ROOT_URI=<your servers root URL>` 
 
+### After setting config variables, start the application 
+
 `npm start`
 
 server will start listening by default on post 3000, this can also be configured with config var
