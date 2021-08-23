@@ -1,0 +1,7 @@
+{
+    "URI": "URI",
+    "key": "config_key",
+    "GOOGLE_CLIENT_ID": "CLIENT_ID",
+    "GOOGLE_CLIENT_SECRET": "CLIENT_SECRET",
+    "SERVER_ROOT_URI": "ROOT_URI"   
+}
